@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariusgontran
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python and HTML 
+- 🌱 I’m currently studying a Bachelor of IT
 
 <!---
 mariusgontran/mariusgontran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
