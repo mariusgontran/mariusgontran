@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @mariusgontran
-- 👀 I’m interested in coding
-- 🌱 I’m currently studying a Bachelor of IT
+<h1>👋 Hi, I'm Marius Gontran!</h1>
+
+- 📍 From Melbourne, Australia 
+- 🎓 Recent Graduate and 💼 Ready to work
+- 👀 Looking for Web Development opportunities
+
+
+<h2>Tech & Tools</h2>
+
 
 <!---
 mariusgontran/mariusgontran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
